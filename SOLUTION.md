@@ -33,3 +33,11 @@ the submitted `src.hpp`; it does not list Git as an accepted language.
 
 The provided submission client was repaired by adding its missing `submit_code`
 method, preserving submission-ID logging.
+
+## Judge result
+
+- Submission: 879493, C++ header submission for problem 2684.
+- Result: Accepted, 100/100, all seven groups passed.
+- Reported total runtime: 11 ms; peak memory: 4,009,984 bytes.
+- Attempts used: 1 of 5.
+- Submitted implementation commit: 81874b962156b83ed1d57311d5ac111b82da66f7.
